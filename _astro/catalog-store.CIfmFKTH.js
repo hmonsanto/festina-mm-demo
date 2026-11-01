@@ -1,0 +1,1 @@
+import{r as e,t}from"./hooks.CUrW4qiz.js";import{t as n}from"./catalog.BdsEPbhY.js";import{r}from"./supabase.Dj6MfOMh.js";var i;function a(){return i??=(async()=>{let e=r();if(!e)return null;try{return await n(e)}catch{return null}})(),i}function o(n,r){let[i,o]=e(n);return t(()=>{let e=!0;return a().then(t=>{e&&t&&o(r(t))}),()=>{e=!1}},[]),i}export{o as n,a as t};

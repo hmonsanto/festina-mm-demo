@@ -1,0 +1,1 @@
+import"./catalog.BdsEPbhY.js";var e=`product-images`;function t(){return null}function n(e){return null}export{n,t as r,e as t};
